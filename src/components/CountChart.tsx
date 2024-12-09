@@ -28,7 +28,7 @@ export default function CountChart() {
             {/* TITLE */}
             <div className='mt-5 flex justify-between items-center'>
                 <h1>Students</h1>
-                <Image src="/moreDark.png" alt="Student Icon" width={20} height={20} />
+                <Image src="/moreDark.png" alt="Student Icon" width={20} height={20}/>
             </div>
             {/* CHART */}
             <div className='relative w-full h-[75%]'>
