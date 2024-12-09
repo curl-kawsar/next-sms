@@ -41,7 +41,7 @@ export default function CountChart() {
                         />
                     </RadialBarChart>
                 </ResponsiveContainer>
-                <Image src="/maleFemale.png" width={50} height={50} className='absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2'  />
+                <Image src="/maleFemale.png" alt="Student Icon" width={50} height={50} className='absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2'  />
             </div>
             {/* BOTTOM */}
             <div className='flex justify-center gap-16 mt-4'>
